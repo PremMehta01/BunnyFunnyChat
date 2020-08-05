@@ -1,9 +1,5 @@
 # BunnyFunnyChat
 
-[![platform](https://img.shields.io/badge/platform-android-green)](https://www.android.com)
-[![API](https://img.shields.io/badge/API-19%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=19)
-
-
 
 Messaging app where message gets recast while sending
 
